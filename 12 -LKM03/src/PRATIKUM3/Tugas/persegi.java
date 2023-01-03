@@ -9,7 +9,7 @@ public class persegi {
     
     void luas(){
         float luas = sisi*sisi;
-        System.out.println("Luas lingkaran: " + luas);
+        System.out.println("Luas persegi: " + luas);
     }
     void keliling(){
         float keliling = 4*sisi;
